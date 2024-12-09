@@ -5,7 +5,7 @@ const Tooltips = ({position= 'bottom',colors=['bg-red-700','bg-green-700','bg-bl
   const positionClasses = {
     bottom:{
       tooltip:'bottom-full left-1/2 transform -translate-x-1/2 mb-3',
-      arrow:'left-1/2 transform -translate-x-1/2 -bottom-2 border-t '
+      arrow:'left-1/2 transform -translate-x-1/2 -bottom-2 border-t ',
     }
  
   }

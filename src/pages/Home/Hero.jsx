@@ -18,7 +18,7 @@ const Hero = () => {
               </div>
          </div>
          {/* botton bulr effect */}
-         <div className="absoulte inset-0 bottom-0 h-3/4 -mb-2 bg-gradient-to-t from-white vai-transparent  to-transparent blur-sm"></div>
+         <div className="absoulte inset-0 bottom-0 h-1/2 -mb-2 bg-gradient-to-t from-white vai-transparent  to-transparent blur-sm"></div>
          {/* hover button for display tooltip box */}
          <div className="hidden xl:block absolute bottom-40 left-24 "> 
            <Tooltips position='bottom'/>

@@ -42,7 +42,6 @@ return (
          <nav className="mx-w-screen-2xl container flex justify-between items-center py-6 px-4">
          {/* logo */}
             <Link to="/" className="font-bold">Logo</Link>
-
          {/* hamburger mobile menu */}
          <div onClick={toggleMenu} className="md:hidden text-xl cursor-pointer hover:text-primary">
            {
@@ -58,7 +57,6 @@ return (
                 <div className="absolute top-4 right-4 text-xl cursor-pointer" onClick={toggleMenu}>
                 <FaTimes />
                 </div>
-             
                 <NavItems toggleMenu={toggleMenu}/>
             </div>
          {/* cart icon */}
