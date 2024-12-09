@@ -9,7 +9,11 @@ function App() {
   return (
     <>
     <Navber />
-     <Outlet />
+    <main className='min-h-screen'>
+        <Outlet />
+    </main>
+    <footer>footer</footer>
+
     </>
   )
 }

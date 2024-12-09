@@ -1,8 +1,11 @@
+import Hero from "./hero"
 
-
-function Home() {
+const Home = () => {
   return (
-    <div>Home</div>
+    <>
+      
+    <Hero/>
+    </>
   )
 }
 
