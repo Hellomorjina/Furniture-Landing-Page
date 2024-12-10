@@ -1,5 +1,6 @@
 import Hero from "./hero"
 import WhyChoosing from "./WhyChoosing"
+import Products from "./../shop/Products"
 
 const Home = () => {
   return (
@@ -7,6 +8,7 @@ const Home = () => {
       
     <Hero/>
     <WhyChoosing/>
+    <Products headline="Best Selling Product"/>
     </>
   )
 }
