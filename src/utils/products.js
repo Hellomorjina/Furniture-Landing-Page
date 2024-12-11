@@ -1,5 +1,46 @@
+
 export const products = [
   // Chairs
+  {
+    id: 1,
+    name: "Comfortable Chair",
+    category: "Chair",
+    price: 99,
+    imageUrl: "chair-1.png",
+    rating: 5,
+  },
+  {
+    id: 2,
+    name: "Ergonomic Chair",
+    category: "Chair",
+    price: 129,
+    imageUrl: "chair-2.png",
+    rating: 4,
+  },
+  {
+    id: 3,
+    name: "Stylish Armchair",
+    category: "Chair",
+    price: 149,
+    imageUrl: "chair-3.png",
+    rating: 3,
+  },
+  {
+    id: 4,
+    name: "Leather Recliner",
+    category: "Chair",
+    price: 199,
+    imageUrl: "chair-4.png",
+    rating: 4,
+  },
+  {
+    id: 5,
+    name: "Minimalist Chair",
+    category: "Chair",
+    price: 89,
+    imageUrl: "chair-5.png",
+    rating: 4.5,
+  },
   {
     id: 1,
     name: "Comfortable Chair",

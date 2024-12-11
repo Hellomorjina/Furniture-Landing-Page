@@ -1,4 +1,4 @@
-import Hero from "./hero"
+import Hero from "./Hero"
 import WhyChoosing from "./WhyChoosing"
 import Products from "./../shop/Products"
 
