@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import { Link, NavLink } from "react-router-dom"
 import { FaShoppingBag } from "react-icons/fa";
 import { FaBars } from "react-icons/fa";

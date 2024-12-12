@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import { IoStar } from "react-icons/io5";
 const Reating = ({rating}) => {
   const totalStars = 5;

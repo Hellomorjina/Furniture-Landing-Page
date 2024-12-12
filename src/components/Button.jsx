@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import ButtonIcon from '../../src/assets/button.png/'
 
 const Button =({text}) => {
