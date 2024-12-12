@@ -57,7 +57,7 @@ function Navber() {
 return (
     <>
       <header className={`fixed top-0 left-0 right-0 z-50 transtion duration-300 ease-in-out 
-      ${isScrolled ?'bg-white text-black':'bg-transparent text-white'} `}>
+      ${isScrolled ?'bg-white text-black shadow':'bg-transparent text-white'} `}>
          <nav className="mx-w-screen-2xl container flex justify-between items-center py-6 px-4">
          {/* logo */}
             <Link to="/" className="font-bold">panto</Link>

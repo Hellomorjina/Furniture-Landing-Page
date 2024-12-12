@@ -8,7 +8,7 @@ const Matrial = () => {
     <div className="md:w-1/2 mx-auto">
         <h3 className="uppercase text-lg font-semibold text-primary mb-4">Materials</h3>
         <h2 className="capitalize text-4xl font-bold  mb-4">Very serious materials  <br/> for making  furniture</h2>
-        <p className="text-base text-secondary dark:text-white lg:w-2/3  mb-4">You don’t have to worry about the result because all of these interiors are made by people who are professionals in their fields with an elegant and lucurious style and with premium quality materials</p>
+        <p className="text-base text-secondary dark:text-white lg:w-2/3  mb-4">Because panto was very serious about designing furniture for our environment, using a very expensive and famous capital but at a relatively low price</p>
         <Button text="More Info"/>
 
     </div>

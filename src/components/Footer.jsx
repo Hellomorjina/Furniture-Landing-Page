@@ -8,7 +8,7 @@ import { AiFillInstagram } from "react-icons/ai";
 
 function Footer() {
   return (
-    <foooter className="mx-auto  bg-secondary text-black dark:bg-gray-800 dark:text-white pt-20 mt-5 pb-5">
+    <foooter className="mx-auto bg-[#F7F7F7] text-black dark:bg-gray-800 dark:text-white pt-20 mt-5 pb-5">
        <div className="section_contniner grid grid-col-1 sm:grid-cols-2 md:grid-cols-5 gap-8 ">
        {/* logo and Ditals  */}
           <div className="md:col-span-2">
