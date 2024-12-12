@@ -2,6 +2,7 @@
 import { Outlet } from 'react-router-dom'
 import './App.css'
 import Navber from './components/Navber';
+import Footer from './components/Footer';
 
 
 function App() {
@@ -12,7 +13,7 @@ function App() {
     <main className='min-h-screen'>
         <Outlet />
     </main>
-    <footer>footer</footer>
+     <Footer/>
 
     </>
   )

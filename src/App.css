@@ -4,7 +4,17 @@
     @apply max-w-screen-2xl container mx-auto py-6 px-4 ;
   }
   
-
+  body {
+    @apply transition-colors duration-300;
+  }
+  
+  .dark {
+    @apply bg-gray-900 text-white;
+  }
+  .swiper-button-prev:after,
+  .swiper-button-next:after {
+    @apply px-4 py-2 ring-1 ring-primary hover:text-white hover:bg-primary rounded-full bg-white text-black text-lg !important;
+  }
 
 
 
