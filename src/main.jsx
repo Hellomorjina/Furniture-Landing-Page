@@ -4,9 +4,9 @@ import './index.css'
 import App from './App.jsx'
 import { createBrowserRouter,RouterProvider } from 'react-router-dom'
 import Home from './pages/Home/Home.jsx';
-import Shop from './pages/shop/shop.jsx'
 import About from './pages/about/About.jsx'
 import Contact from './pages/contact/Contact.jsx'
+import Shop from './pages/shop/Shop.jsx'
 
 const router = createBrowserRouter([
   {
