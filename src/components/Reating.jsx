@@ -1,5 +1,6 @@
 
 import { IoStar } from "react-icons/io5";
+// eslint-disable-next-line react/prop-types
 const Reating = ({rating}) => {
   const totalStars = 5;
   return (
