@@ -1,6 +1,6 @@
-/* eslint-disable react/prop-types */
+
 import { IoStar } from "react-icons/io5";
-const Reating = ({rating}) => {
+const reating = ({rating}) => {
   const totalStars = 5;
   return (
     <div className="flex space-x-1">
@@ -14,4 +14,4 @@ const Reating = ({rating}) => {
   )
 }
 
-export default Reating
+export default reating

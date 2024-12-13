@@ -5,6 +5,7 @@ import 'swiper/css/navigation';
 import { Navigation } from 'swiper/modules';
 
 
+
 // import required modules
 import { Pagination } from 'swiper/modules';
 import { reviews } from '../../utils/reviews';
