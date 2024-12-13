@@ -1,6 +1,6 @@
 
 import { IoStar } from "react-icons/io5";
-const reating = ({rating}) => {
+const Reating = ({rating}) => {
   const totalStars = 5;
   return (
     <div className="flex space-x-1">
@@ -14,4 +14,4 @@ const reating = ({rating}) => {
   )
 }
 
-export default reating
+export default Reating
