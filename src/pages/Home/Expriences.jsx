@@ -1,4 +1,4 @@
-import Button from "../../components/button"
+import Button from "../../components/Button"
 import exprince from "./../../assets/expricences.png"
 function Expriences() {
   return (
