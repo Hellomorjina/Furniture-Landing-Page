@@ -1,4 +1,4 @@
-import Button from "../../components/button"
+import Button from "../../components/Button"
 import matrial1 from "./../../assets/material1.png"
 import matrial2 from "./../../assets/material2.png"
 import matrial3 from "./../../assets/material3.png"
