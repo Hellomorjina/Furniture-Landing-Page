@@ -59,7 +59,7 @@ return (
     <>
       <header className={`fixed top-0 left-0 right-0 z-50 transtion duration-300 ease-in-out 
       ${isScrolled ?'bg-white text-black shadow':'bg-transparent text-white'} `}>
-         <nav className="mx-w-screen-2xl container flex justify-between items-center py-6 px-4">
+         <nav className="mx-w-screen-2xl container flex justify-between items-center py-6 px-4 mx-auto">
          {/* logo */}
             <Link to="/" className="font-bold">panto</Link>
          {/* hamburger mobile menu */}

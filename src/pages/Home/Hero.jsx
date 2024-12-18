@@ -5,9 +5,9 @@ import Tooltips from "../../components/Tooltips"
 
 const Hero = () => {
   return (
-      <section className='h-[750px] w-full relative bg-cover bg-center text-white ' style={{backgroundImage:`url(${HeroImg})`}}>
+      <section className='h-[750px] w-full relative bg-cover bg-center text-white' style={{backgroundImage:`url(${HeroImg})`}}>
          <div className="md:pt-[85px] pt-24 text-center space-y-5 md:w-1/2 mx-auto ">
-             <h1 className='text-4xl  lg:text-6xl font-medium lg:leading-tight leading-snug'>Make your interior more minimalistic & modern</h1>
+             <h1 className='text-4xl  lg:text-6xl font-medium lg:leading-tight leading-snug mt-20'>Make your interior more minimalistic & modern</h1>
              <p className="text-2xl font-normal mx-auto p-2">Turn your room with panto into a lot more minimalist and modern with ease and speed</p>
               {/* search field */}
               <div className="relative inline-block x-30">
